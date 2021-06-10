@@ -1,0 +1,18 @@
+[Unit]
+Description=Script service
+After=network.target network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/home/user/directorypath/main.sh
+
+[Install]
+WantedBy=multi-user.target
+
+#file of the daemon, it isn't necessary to run the script
+#in the 7th line, you must write where is your file located
+#you must locate this file in /etc/systemd/system
+#for eneble the service --> sudo systemctl enable USBcopyaut
+#for start the service --> sudo systemctl start USBcopyaut
+#for restart the service --> sudo systemctl restart USBcopyaut
+#for stop the service --> sudo systemctl stop USBcopyaut
