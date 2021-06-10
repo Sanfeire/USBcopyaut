@@ -16,6 +16,7 @@ And, if you don't like the program, you can go to the shit motherfucker. Just ki
 
 The absence of any perception of life is an argument in favor of us being in a simulation ... Like when you are playing an adventure game and you see the stars in the background, but you cannot get there. If it is not a simulation, then perhaps we are inside a laboratory and there is some extraterrestrial civilization that out of curiosity is watching us how we develop, like mold in a Petri dish ... what happens to civilizations, in a bad way. .. And it could be that there were many dead planet civilizations. 
 If you assume any rate of improvement, then the games will be indistinguishable from reality, or civilization will disappear. One of two things will happen. Therefore, we are probably inside a simulation, because we exist. I think the most likely - this is just a matter of probability - is that there are many simulations. You can call them reality, or you can call them multiverse.
+        --Elon Musk
 
 
 
