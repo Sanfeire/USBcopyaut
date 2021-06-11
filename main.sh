@@ -1,14 +1,29 @@
 #!/bin/bash
-FILE=/media/user/ #put hear the directory where the system mounts the USB
+FILE=/media/santi/
 #DATE=$(date +"%H-%M-%S")
 while true; do
-if test -d "$FILE"; then
-  sudo cp -r $FILE /home/user/directorypath/$RANDOM #you put heare  
+#cambiar por el archivo, comprobar con los pendrives
+if [ "$(ls $FILE)" ]
+then
+  echo Thers a USB connected, copying..    
+  sudo cp -r $FILE /home/santi/basededatosusb/$RANDOM
 else
-  echo The file doesn't exists, try another time .....
+  echo Thers not any USB... Sorry
+  sleep 3
+  echo hacking NASA 20%...
+  sleep 2
+  echo hacking NASA 45,3%...
+  sleep 2
+  echo hacking NASA 66,6%...
+  sleep 4
+  echo hacking NASA 80,6%...
+  sleep 2
+  echo The attack was compleated succesfully
+  sleep 4
+  echo now you can see the database of the Perseverance mission
+  sleep 2
+  echo I wish you luck with the FBI
 fi
-sleep 30 #change the time for the copy
+#cambiar por el usuario, atento la línea del copiado (revisa antes que aparece)
+sleep 40
 done
-
-#after put the script in any directory, you have to give it execute permissions chmod +x main.sh
-       
