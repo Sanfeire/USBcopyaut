@@ -8,7 +8,7 @@ This script is totally free but, if you want to donate you can do it to the foll
 To the following Ethereum wallet --> 0x023fde2d6c3c445a81fcf0665a49abe87f5be355
 Or to this DogeCoin wallet --> 0x023fde2d6c3c445a81fcf0665a49abe87f5be355
 <3
-And, if you don't like the program, you can go to the shit motherfucker. Just kidding
+
 
 
 ![rickmortycool](https://user-images.githubusercontent.com/67929659/121566839-314ea780-ca1e-11eb-8ad4-5022b87b18dd.jpg)
