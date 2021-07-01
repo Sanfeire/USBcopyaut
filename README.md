@@ -4,9 +4,14 @@ This script can copy all the things when a USB memory is introduced in a linux c
 If you want to use the script, yo have to make the local file beafore you run the script -or the daemon-.
 I will not accept any responsability about the illigal usages of the script, this is defensive tool.
 If you want to contact me about anything you can writte to breakshacker2020@gmail.com
-This script is totally free but, if you want to donate you can do it to the following Bitcoin wallet --> 1MaWjWbj4wyzJhT8U9wQ7ZURjtwPfncm25
+This script is totally free but, if you want to donate you can do it to the following...
+<br></br>
+Bitcoin wallet --> 1MaWjWbj4wyzJhT8U9wQ7ZURjtwPfncm25 
+<br></br>
 To the following Ethereum wallet --> 0x023fde2d6c3c445a81fcf0665a49abe87f5be355
-Or to this DogeCoin wallet --> 0x023fde2d6c3c445a81fcf0665a49abe87f5be355
+<br></br>
+Or to this DogeCoin wallet --> 0x023fde2d6c3c445a81fcf0665a49abe87f5be355 
+<br></br>
 <3
 
 
