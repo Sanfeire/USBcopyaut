@@ -1,5 +1,5 @@
 # USBcopyaut
-A simple bash program that it can be converted to a daemon with systemd.
+A simple bash program that can be converted to a daemon with systemd.
 This script can copy all the things when a USB memory is introduced in a linux computer into a local file. For watch the content of the memory after. 
 If you want to use the script, yo have to make the local file beafore you run the script -or the daemon-.
 I will not accept any responsability about the illigal usages of the script, this is defensive tool.
