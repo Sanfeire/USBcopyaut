@@ -6,7 +6,7 @@ I will not accept any responsability about the illigal usages of the script, thi
 If you want to contact me about anything you can writte to breakshacker2020@gmail.com
 
 
-If you want you can use the script with the binary cron wich is in the mayor part of the systems insted of using daemons
+If you want, you can use the script with the binary cron, wich is in the mayor part of the systems, insted of using daemons
 
 
 ![rickmortycool](https://user-images.githubusercontent.com/67929659/121566839-314ea780-ca1e-11eb-8ad4-5022b87b18dd.jpg)
